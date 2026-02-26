@@ -1,0 +1,11 @@
+```text
+customtkinter
+sounddevice
+numpy
+faster-whisper
+openai
+keyboard
+pyperclip
+pystray
+Pillow
+scipy

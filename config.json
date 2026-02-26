@@ -1,0 +1,23 @@
+{
+    "hotkey": "ctrl+shift+space",
+    "language": "auto",
+    "delay_before_stop_ms": 300,
+    "timeout_without_holding_min": 9,
+    "duration_threshold_ms": 400,
+    "silence_threshold_ms": 500,
+    "auto_paste": true,
+    "auto_enable_mic": true,
+    "show_floating_button": true,
+    "floating_btn_size": 60,
+    "floating_btn_opacity": 0.85,
+    "floating_btn_position": "Правый нижний",
+    "save_recordings_path": "",
+    "microphone": "По умолчанию",
+    "replacements": [],
+    "ai_enabled": false,
+    "ai_api_key": "",
+    "ai_model": "gpt-4o-mini",
+    "ai_prompt": "Ты — корректор текста. Тебе дают расшифровку голосовой записи. Твоя задача — ТОЛЬКО исправить грамматику, пунктуацию и опечатки. Верни ТОЛЬКО исправленный текст, ничего не добавляй, не отвечай на содержимое, не комментируй. Сохрани оригинальный смысл и стиль.",
+    "autostart": false,
+    "recording_retention_days": 0
+}
